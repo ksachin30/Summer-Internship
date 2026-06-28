@@ -192,30 +192,4 @@ Through these projects I gained practical experience with:
 
 ---
 
-# 🤝 Contributing
 
-Suggestions and improvements are always welcome.
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a Pull Request
-
----
-
-# 📄 License
-
-This project is created for educational purposes and is open for learning and reference.
-
----
-
-# 👨‍💻 Author
-
-**Sachin Kumar**
-
-- GitHub: https://github.com/ksachin30
-- C++ Developer | Learning DSA | Aspiring Software Engineer
-
----
-
-⭐ If you found this project helpful, consider giving it a **Star** on GitHub!
