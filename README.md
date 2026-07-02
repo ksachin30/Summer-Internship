@@ -4,8 +4,6 @@ A collection of beginner-friendly C++ console applications developed as part of 
 
 ---
 
-## 📚 Projects Included
-
 ### 🎲 Task 1 - Number Guessing Game
 
 A console-based game where the computer randomly generates a number between **1 and 100**, and the player attempts to guess it.
